@@ -22,10 +22,12 @@ The portfolio combines visual storytelling with the structured problem-solving p
 
 | Project | Focus | Contribution |
 | --- | --- | --- |
-| **Colors in UMKC** | Campus identity and everyday student life | Concept development, filming, editing, caption and copy development |
-| **Korean Games You Should Try** | Cultural storytelling and event engagement | Content planning, collaboration, filming, editing, and audience-focused storytelling |
+| **Colors in UMKC** | Campus identity and everyday student life | Concept development, filming, editing, caption and copy development; co-produced with Hyunsun Ahn |
+| **Korean Games You Should Try** | Cultural storytelling and event engagement | Content planning, collaboration, filming, editing, and audience-focused storytelling; co-produced with Hyunsun Ahn |
 
 Both reels are embedded directly in the website and can also be opened as full videos without signing in.
+
+The portfolio also includes a one-page PDF resume linked from the About section.
 
 ## What the portfolio demonstrates
 
